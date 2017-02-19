@@ -1,0 +1,6 @@
+[submodule "ESP8266/d1_mini_kicad"]
+	path = ESP8266/d1_mini_kicad
+	url = git@github.com:jerome-labidurie/d1_mini_kicad.git
+[submodule "ESP8266/kicad-ESP8266"]
+	path = ESP8266/kicad-ESP8266
+	url = git@github.com:jdunmire/kicad-ESP8266.git
